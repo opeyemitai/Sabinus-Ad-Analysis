@@ -34,4 +34,4 @@ Overall, the business ads initiative has proven to be a valuable tool for busine
 
 ![Sabinus Analysis pictures](https://github.com/opeyemitai/Sabinus-Ad-Analysis/assets/119592062/652b8deb-32b8-4dca-8ae7-666054a8f2ba)
 
-_ Data Source: Instagram (@mrfunny1_). _
+_Data Source: Instagram (@mrfunny1_)._
